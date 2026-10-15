@@ -8,9 +8,9 @@
 
 ### ✨ Un poco sobre mí
 
-Soy desarrolladora junior en formación y estudiante de Estadística y Ciencias Actuariales en la UCV. Me gusta construir cosas que funcionen y tengan escencia.
+Soy desarrolladora frontend junior en formación y estudiante de Estadística y Ciencias Actuariales en la UCV. Me gusta construir cosas que funcionen y tengan escencia.
 
-- 🔭 Ahora mismo: afianzando TypeScript, JavaScript e ingenieria de datos
+- 🔭 Ahora mismo: afianzando TypeScript y JavaScript
 - 🧠 Explorando cómo integrar IA en aplicaciones reales
 - 🌱 Aprendiendo en público: cada repo es un paso más
 - 📊 Me encanta explorar herramientas, experimentar y descubir mi espacio en este mundo del desarrollo
